@@ -61,7 +61,7 @@
   </tr>
   <tr>
     <td>ShowProcess.java</td>
-    <td>Showing all information about Movie Object as output </td>
+    <td>Showing all information about Person Object as output </td>
   </tr>
   <tr>
     <td>DefineValues.java</td>
